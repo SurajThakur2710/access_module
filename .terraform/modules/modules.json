@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"demo","Source":"git::https://github.com/SurajThakur2710/tf_new_relic1","Dir":".terraform/modules/demo"},{"Key":"demo.alert_policy","Source":"./child_module","Dir":".terraform/modules/demo/child_module"}]}
